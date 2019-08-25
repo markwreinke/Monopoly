@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1525055266 source:c:\users\mark\documents\2 school\csis 2610 programming and problem-solving\monopoly 3.2\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	<stdlib.h>
+	<cstdlib>
+	<time.h>
+	<vector>
+	<cstring>
+
